@@ -1,0 +1,11 @@
+
+kinematic={g[p[1], p[1]] -> msq, g[p[2], p[2]] -> msq, g[p[4], p[4]] -> 0, 
+ g[p[3], p[3]] -> 0, g[p[1], p[2]] -> 1/2 (-2 msq + s), 
+ g[p[3], p[4]] -> s/2, g[p[2], p[3]] -> 1/2 (-msq + t), 
+ g[p[1], p[4]] -> 1/2 (-msq + t), g[p[2], p[4]] -> 1/2 (msq - s - t)};
+
+Z[m_,m3_,m4_,st_]:=(Sqrt[s](-2m^2-m3^2-m4^2+s+2st^2))/(Sqrt[s-4m^2]Sqrt[s-(m3+m4)^2]Sqrt[s-(m3-m4)^2]);
+
+\[Lambda][z_]=z+Sqrt[z^2-1];
+
+LS[loop_]:=\[Lambda][Z[msq,msq,msq,msq]]^loop\[Lambda][Z[msq,0,0,msq]]-\[Lambda][Z[msq,0,0,Sqrt[t]]];
