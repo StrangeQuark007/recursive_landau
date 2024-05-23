@@ -1,3 +1,4 @@
+%Kinematic: mass of the external Higgs is p[5]^2=Msq and the internal masses are that of the Z-boson (msqZ) and that of the top quark (msqt). We have p[i]^2=0 for all the other i's.
 
 LS= (s[1, 2]^2*(s[1, 5] - s[2, 3])^2 + (Msq*s[2, 3] - s[2, 3]*s[3, 4] + (-s[1, 5] + s[3, 4])*s[4, 5])^2 + 
  2*s[1, 2]*(Msq*s[2, 3]*(s[1, 5] - s[2, 3] - 2*s[3, 4]) - s[1, 5]^2*s[4, 5] + s[1, 5]*s[3, 4]*s[4, 5] + s[2, 3]*s[3, 4]*(-s[2, 3] + s[4, 5]) + s[1, 5]*s[2, 3]*(s[3, 4] + s[4, 5])))*((msqt^2*s[1, 2]^4*s[1, 5]^4 + Msq^2*msqt*s[1, 2]^4*s[1, 5]^2*s[2, 3] - 2*Msq*msqt^2*s[1, 2]^4*s[1, 5]^2*s[2, 3] + 2*Msq*msqt*msqZ*s[1, 2]^4*s[1, 5]^2*s[2, 3] + 4*Msq*msqt^2*s[1, 2]^3*s[1, 5]^3*s[2, 3] - 
