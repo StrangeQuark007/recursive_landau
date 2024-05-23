@@ -1,4 +1,6 @@
 
+%Kinematic: p[i]^2=Msq for all i and all internal edges have mass squared msq
+
 LS =(4*Msq - s - t)*(4*msq^2*Msq^2 - 5*msq^2*Msq*s + msq^2*s^2 - 5*msq^2*Msq*t + 2*msq^2*s*t + 5*msq*Msq*s*t - Msq^2*s*t - msq*s^2*t + msq^2*t^2 - msq*s*t^2)*
  (81*msq^4*Msq^2*s^2 - 54*msq^3*Msq^3*s^2 + 9*msq^2*Msq^4*s^2 - 54*msq^4*Msq*s^3 + 9*msq^3*Msq^2*s^3 + 9*msq^4*s^4 + 162*msq^4*Msq^2*s*t - 540*msq^3*Msq^3*s*t + 450*msq^2*Msq^4*s*t - 144*msq*Msq^5*s*t + 16*Msq^6*s*t - 
   162*msq^4*Msq*s^2*t + 297*msq^3*Msq^2*s^2*t - 126*msq^2*Msq^3*s^2*t + 12*msq*Msq^4*s^2*t + 36*msq^4*s^3*t + 9*msq^2*Msq^2*s^3*t - 10*msq^3*s^4*t + 81*msq^4*Msq^2*t^2 - 54*msq^3*Msq^3*t^2 + 9*msq^2*Msq^4*t^2 - 
