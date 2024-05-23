@@ -1,5 +1,5 @@
 
-%Throughout the scattering process, the \textcolor{Maroon}{top red} line remains a quark of flavor ``$a$'' ($p_1^2 = p_5^2 = M_a^2$) while the \textcolor{RoyalBlue}{bottom blue} line remains a quark of %flavor ``$b$'' ($p_2^2 = p_3^2 = M_b^2$). The \textcolor{Gray}{wiggly gray} lines denotes (massless) photons.
+%Kinematic: throughout the scattering process, the top (red) line remains a quark of flavor ``a'' (with p[1]^2 = p[5]^2 = Ma^2) while the bottom (blue) line remains a quark of flavor ``b'' (with p[2]^2 = p[3]^2 = Mb^2). The wiggly (gray) lines denotes (massless) photons.
 
 
 LS = (Ma2^2*Mb2*s[1, 5]^2 + Ma2^2*Mb2*s[1, 5]*s[2, 3] + Ma2*Mb2^2*s[1, 5]*s[2, 3] - Ma2*Mb2*s[1, 2]*s[1, 5]*s[2, 3] + Ma2*Mb2^2*s[2, 3]^2 - Ma2^2*s[1, 5]*s[2, 3]*s[3, 4] - Ma2*Mb2*s[1, 5]*s[2, 3]*s[3, 4] + 
