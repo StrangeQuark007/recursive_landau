@@ -1,4 +1,4 @@
-% Arbitrary loop leading Landau locus is given by:
+% Arbitrary loop leading Landau locus is given by (a choice of branch is made to write the expression in a compact form):
 
 
 Z[m_,m3_,m4_,st_]:=(Sqrt[s](-2m^2-m3^2-m4^2+s+2st^2))/(Sqrt[s-4m^2]Sqrt[s-(m3+m4)^2]Sqrt[s-(m3-m4)^2]);
